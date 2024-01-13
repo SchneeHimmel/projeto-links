@@ -44,7 +44,8 @@ body * {
 #container {
   /*border: 1px solid red;*/
 
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*propriedades do margin - 1>all sides; 2> Y-X; 3>top-X-bottom; 4>top-right-bottom-left*/
   margin: 56px auto 0px;
   padding: 0px 24px;
